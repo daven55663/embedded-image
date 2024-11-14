@@ -4,3 +4,6 @@ breakdown
 ![image](breakdown.png)
 流程架構圖
 ![image](IMG_0348.png)
+LBP成果(未完成)
+![image](LBP5.png)
+![image](LBP7.png)
