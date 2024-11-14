@@ -5,5 +5,5 @@ breakdown
 流程架構圖
 ![image](IMG_0348.png)
 LBP成果(未完成)
-![image](LBP5.png)
-![image](LBP7.png)
+![image](https://github.com/daven55663/embedded-image/blob/main/LBP5.PNG)
+![image](https://github.com/daven55663/embedded-image/blob/main/LBP7.PNG)
